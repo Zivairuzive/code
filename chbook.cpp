@@ -3,7 +3,7 @@
 
 #include <iostream>
 #include <iomanip>
-// need to add commnet here 
+// need to add comment here 
 using namespace std;
 
 int main(){
